@@ -17,10 +17,11 @@
 # list2.pop()
 
 # list2.insert(3,'dddd')
-
-# list2.clear()
-# list2.append('345')
-# list2.extend(list1)
-# print(list2)
-# list2.count("red")
-# print(list2)
+# woshi xinren 
+list2.clear()
+list2.append('345')
+list2.extend(list1)
+print(list2)
+list2.count("red")
+print(list2)
+print(123)
